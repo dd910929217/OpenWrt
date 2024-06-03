@@ -1,4 +1,4 @@
-name: IPQ60XX-WIFI(EMMC)
+name: myzj
 
 on:
   workflow_dispatch:
